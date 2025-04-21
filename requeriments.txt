@@ -1,8 +1,0 @@
-streamlit
-pandas
-folium
-plotly
-requests
-geojson
-shapely
-
