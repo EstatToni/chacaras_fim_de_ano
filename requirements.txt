@@ -5,4 +5,4 @@ plotly
 requests
 geojson
 shapely
-geodesic
+geopy
